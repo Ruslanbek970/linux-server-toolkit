@@ -8,3 +8,4 @@ Status: work in progress.
 | Script | What it does |
 |--------|--------------|
 | `scripts/system_info.sh` | Shows user, hostname, OS, network, disk and memory |
+| `scripts/log_check.sh` | Shows recent error logs for a systemd service |
