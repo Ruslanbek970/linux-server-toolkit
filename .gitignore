@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp files
+*.log
+logs/
+tmp/
+
+# Secrets - never commit these
+.env
+*.pem
+*.key
