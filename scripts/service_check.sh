@@ -7,7 +7,7 @@
 set -euo pipefail
 
 SERVICE="${1:-nginx}"
-PORT="${2:-8080}"
+PORT="${2:-80}"
 FAILED=0
 
 check() {
