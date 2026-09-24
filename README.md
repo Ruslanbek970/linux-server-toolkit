@@ -9,4 +9,5 @@ Status: work in progress.
 |--------|--------------|
 | `scripts/system_info.sh` | Shows user, hostname, OS, network, disk and memory |
 | `scripts/log_check.sh` | Shows recent error logs for a systemd service |
+| `scripts/network_check.sh` | Shows IPs, default route, DNS, ping and listening ports |
 | `scripts/service_check.sh` | Checks that a service is running, listening and answering HTTP |
